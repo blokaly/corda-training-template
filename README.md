@@ -31,3 +31,9 @@ To run the unit tests use the Green arrow in IntelliJ next to the test definitio
 Use the instructions above each unit test to complete the code in the required file (e.g. `IOUState.kt`) to get the unit tests to pass.
 
 Solutions are available [here](https://github.com/roger3cev/corda-training-solutions).
+
+## Kotlin Reference:
+
+[From Java to Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+
+[Full Kotlin Reference](https://kotlinlang.org/docs/kotlin-docs.pdf)
