@@ -5,7 +5,7 @@
 ## Pre-requrisites:
 
 * JDK 1.8 latest version
-* IntelliJ latest version (2017.1)( as of writing)
+* IntelliJ 2017.x version
 * git
 
 ## Instructions:
